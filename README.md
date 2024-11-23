@@ -31,6 +31,12 @@ Este projeto automatiza a criação e configuração do banco de dados escolar. 
    - `nota` (FLOAT): Nota do aluno na prova.
    - `data_da_prova` (DATE): Data em que a prova foi realizada.
 
+![escola e alunos](https://github.com/user-attachments/assets/83ca906a-fe2b-4788-99c4-23d0cd433111)
+
+![escola e alunos2](https://github.com/user-attachments/assets/b15733c4-2795-45db-984b-dba3047e176a)
+
+![escola e alunos3](https://github.com/user-attachments/assets/0f76ff73-f5bc-4597-bc8a-4778614adef0)
+
 ---
 
 ## 🛠️ Como Automatizar o Banco de Dados
